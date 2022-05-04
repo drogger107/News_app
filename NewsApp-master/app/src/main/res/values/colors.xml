@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    //dark color
+    <color name="dark_primary_color">#141414</color>
+    <color name="dark_primary_dark_color">#141414</color>
+    <color name="dark_bg_color">#141414</color>
+    <color name="dark_text_color">#fafafa</color>
+    <color name="dark_icon_tint_color">#A2A2A2</color>
+    <color name="dark_shadow_color">#0073FF</color>
+    <color name="dark_text_hint_color">#B3FFFFFF</color>
+
+    //light color
+    <color name="light_primary_color">#673AB7</color>
+    <color name="light_primary_dark_color">#512DA8</color>
+    <color name="light_text_color">#363636</color>
+    <color name="light_bg_color">#ffffff</color>
+    <color name="light_shadow_color">#002AC5</color>
+    <color name="light_text_hint_color">#83363636</color>
+
+    //amoled theme color
+    <color name="amoled_primary_color">#000000</color>
+    <color name="amoled_primary_dark_color">#000000</color>
+    <color name="amoled_bg_color">#000000</color>
+
+</resources>

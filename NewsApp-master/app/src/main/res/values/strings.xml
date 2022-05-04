@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="setting_page">
+        Setting pages: Choose your preferred: light or dark and custom your front and size here.Any setting changed must restart application
+    </string>
+</resources>
